@@ -1,6 +1,9 @@
 .venv
 .qodo
 .venv
+*.html
+*.pdf
+*.docx
 laba2.ipynb
 func.py
 labs.ipynb
